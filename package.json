@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Understanding the html canvas 2d context transform property.",
+  "main": "server.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanpadilla/canvasTransform.git"
+  },
+  "keywords": [],
+  "author": "Esteban Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanpadilla/canvasTransform/issues"
+  },
+  "homepage": "https://github.com/estebanpadilla/canvasTransform#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
