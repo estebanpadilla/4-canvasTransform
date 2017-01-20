@@ -4,7 +4,7 @@
   "description": "Understanding the html canvas 2d context transform property.",
   "main": "server.js",
   "scripts": {
-    "start": "browser-sync start --s --f *.css, *.js, *.html"
+    "start": "browser-sync start --s --f css/style.css, app.js, index.html"
   },
   "repository": {
     "type": "git",
